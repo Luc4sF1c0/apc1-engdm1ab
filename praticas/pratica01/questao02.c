@@ -19,4 +19,4 @@ deu_certo - scanf("%f", &altura);
 float area = base * altura/2;
 printf("A area do triangulo eh %f\n", area);
 return 0;
- 
+ z
